@@ -1,0 +1,17 @@
+.abc{
+
+        width:400px;
+		height:200px;
+		border: 1px solid black;
+	    margin-left:150px;
+		margin-top:150px;
+		}
+p {
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 3px;
+}
+a {
+    text-decoration:none;
+    color: #008CBA;
+}
